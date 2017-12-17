@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gs-rest-service/complete/src/main/main.iml" filepath="$PROJECT_DIR$/gs-rest-service/complete/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gs-rest-service/complete/src/test/test.iml" filepath="$PROJECT_DIR$/gs-rest-service/complete/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-rest-service/complete/gs-rest-service (1).iml" filepath="$PROJECT_DIR$/gs-rest-service/complete/gs-rest-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-rest-service/initial/gs-rest-service (2).iml" filepath="$PROJECT_DIR$/gs-rest-service/initial/gs-rest-service (2).iml" />
     </modules>
   </component>
 </project>
